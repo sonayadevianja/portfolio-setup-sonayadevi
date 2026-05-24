@@ -28,4 +28,5 @@ This repository documents the setup process for AI development tools and GitHub 
 - Fixed it by opening the correct project directory
 - Encountered phone verification limitations during setup
 - Received "Credit balance is too low" message while testing Claude Code extensions
+- Received "Quota exceeded. Check your plan and billing details." message while testing Codex extensions
 

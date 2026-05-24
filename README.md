@@ -16,8 +16,9 @@ This repository documents the setup process for AI development tools and GitHub 
 4. Created a public GitHub repository
 5. Opened repository in Cursor
 6. Created README.md
-7. Initialized Git
-8. Committed and pushed project to GitHub
+7. Activate Auto Save
+8. Initialized Git
+9. Committed and pushed project to GitHub
 
 ## Issues Encountered
 - Just forget my pass github account

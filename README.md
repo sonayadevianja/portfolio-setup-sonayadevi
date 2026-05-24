@@ -20,6 +20,8 @@ This repository documents the setup process for AI development tools and GitHub 
 8. Committed and pushed project to GitHub
 
 ## Issues Encountered
+- Just forget my pass github account
+- Login github by email
 - Initially ran Git commands in the wrong folder
 - Fixed it by opening the correct project directory
 

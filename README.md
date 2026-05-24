@@ -19,6 +19,8 @@ This repository documents the setup process for AI development tools and GitHub 
 7. Activate Auto Save
 8. Initialized Git
 9. Committed and pushed project to GitHub
+10. Encountered phone verification limitations during setup
+11. Received "Credit balance is too low" message while testing Claude Code extensions
 
 ## Issues Encountered
 - Just forget my pass github account
